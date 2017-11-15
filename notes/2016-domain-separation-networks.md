@@ -6,7 +6,7 @@
 
 #### Key points
 
-- Most of previous approaches focus only on creating a mapping or shared representation between the two domains, they ignore the individual characteristics of each domain
+- Most of previous approaches for domain adaptation focus only on creating a mapping or shared representation between the two domains, they ignore the individual characteristics of each domain
 - In contrast,authors propose a model which can explicitly learn to extract image representations that are partitioned into two subspaces: 
 	- One component which is private to each domain 
 	- The other which is shared across domains

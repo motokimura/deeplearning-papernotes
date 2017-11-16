@@ -53,3 +53,11 @@
 
 - Deep Residual Learning for Image Recognition [[arXiv](https://arxiv.org/abs/1512.03385)]
 - Learning Deep Features for Discriminative Localization [[arXiv](https://arxiv.org/abs/1512.04150)]
+
+#### 2015-11
+
+- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1511.06434)]
+
+#### 2014-06
+
+- Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1406.2661)]

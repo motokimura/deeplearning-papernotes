@@ -44,3 +44,4 @@
 #### 2015-12
 
 - Deep Residual Learning for Image Recognition [[arXiv](https://arxiv.org/abs/1512.03385)]
+- Learning Deep Features for Discriminative Localization [[arXiv](https://arxiv.org/abs/1512.04150)]

@@ -23,5 +23,5 @@
 
 #### Thoughts
 
-- For me not clear why the CapsNet can acquire robustness to affine transformations or view-point variations of the dataset
+- [~~For me not clear why the CapsNet can acquire robustness to affine transformations or view-point variations of the dataset~~](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
 - Is it possible to make CapsNet which can handle bigger image input or more complex task like semantic segmentation or object detection?

@@ -7,7 +7,7 @@
 #### Key points
 
 - Key concepts of CapsNet
-	- Capsule: a group of neurons whose activity represents the instantiation on the entity (objects, object parts, etc.)
+	- Capsule: a group of neurons whose activity represents the instantiation on the entity
 		- Length of its activity represents the probability that the entity exists
 		- Orientation of its activity represents the properties of the entity
 	- Routing-by-agreement: dynamic routing between capsules

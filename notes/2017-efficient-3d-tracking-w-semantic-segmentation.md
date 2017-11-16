@@ -14,4 +14,4 @@
 
 #### Thoughts
 
-- Authors present one of the good utilizations of the OSM or imcomplete (e.g., not fully 3D) maps data for urban navigation
+- Authors present one of the good utilizations of the OSM or imcomplete (e.g., not fully 3D) map data for urban navigation

@@ -31,10 +31,15 @@
 
 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[arXiv](http://arxiv.org/abs/1609.04802)]
 - A Large Contextual Dataset for Classification, Detection and Counting of Cars with Deep Learning [[arXiv](https://arxiv.org/abs/1609.04453)]
+- Graph Based Convolutional Neural Network [[arXiv](http://arxiv.org/abs/1609.08965)]
 
 #### 2016-08
 
 - [Domain Separation Networks](notes/2016-domain-separation-networks.md) [[arXiv](https://arxiv.org/abs/1608.06019)]
+
+#### 2016-05
+
+- Residual Networks Behave Like Ensembles of Relatively Shallow Networks [[arXiv](http://arxiv.org/abs/1605.06431)]
 
 #### 2015-12
 

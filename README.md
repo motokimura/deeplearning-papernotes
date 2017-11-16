@@ -18,10 +18,18 @@
 - [Mask R-CNN](notes/2017-mask-rcnn.md) [[arXiv](https://arxiv.org/abs/1703.06870)]
 - Deformable Convolutional Networks [[arXiv](https://arxiv.org/abs/1703.06211)]
 
+#### 2017-03
+
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arXiv](https://arxiv.org/abs/1703.10593)]
+
 #### 2016-12
 
 - [EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis](notes/2016-enhancenet-super-resolution.md) [[arXiv](https://arxiv.org/abs/1612.07919)]
 - Feature Pyramid Networks for Object Detection [[arXiv](https://arxiv.org/abs/1612.03144)]
+
+#### 2016-11
+
+- Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004)]
 
 #### 2016-10
 

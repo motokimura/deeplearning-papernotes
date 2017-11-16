@@ -13,6 +13,10 @@
 	- Routing-by-agreement: dynamic routing between capsules
 		- A lower-level capsule prefers to send its output to higher level capsules whose activity vectors have a big scalar product with the prediction coming from the lower-level capsule
 		- Far more effective than the very primitive form of routing implemented by max-pooling, which allows neurons in one layer to ignore all but the most active feature detector in a local pool in the layer below
+	- Affine transformation of the feature
+		- Each connection between lower/higher level capsules have affine transformation matrix whose parameters are acquired by training
+		- This represents spatial or other relationships between lower/higher level capsule features
+		- This enables CapsNet to learn hierarchical relationships between lower/higher level features
 - Experiment on MNIST dataset
 	- Authors constructed and tested CapsNet with 2 conv layers for MNIST classification task
 	- The second conv layer (PrimaryCaps) is a convolutional capsule layer and contains 32x6x6 8D capsules

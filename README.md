@@ -4,13 +4,13 @@
 
 #### 2017-09
 
-- Fast Dense Feature Extraction with CNNs that have Pooling or Striding Layers [[dfki.de](https://www.dfki.de/web/forschung/publikationen/renameFileForDownload?filename=FastCNNFeature_BMVC.pdf&file_id=uploads_3213)]
-- Efficient 3D Tracking in Urban Environments with Semantic Segmentation [[labri.fr](https://www.labri.fr/perso/vlepetit/pubs/hirzer_bmvc17.pdf)]
+- [Fast Dense Feature Extraction with CNNs that have Pooling or Striding Layers](notes/2017-fast-dense-feature-extraction-cnn-w-pooling.md) [[dfki.de](http://av.dfki.de/publications/fast-dense-feature-extraction-with-cnns-that-have-pooling-or-striding-layers/)]
+- [Efficient 3D Tracking in Urban Environments with Semantic Segmentation](notes/2017-efficient-3d-tracking-w-semantic-segmentation.md) [[labri.fr](https://www.labri.fr/perso/vlepetit/pubs/hirzer_bmvc17.pdf)]
 
 #### 2017-08
 
 - Focal Loss for Dense Object Detection [[arXiv](https://arxiv.org/abs/1708.02002)]
-- Abnormal Event Detection in Videos using Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1708.09644)]
+- [Abnormal Event Detection in Videos using Generative Adversarial Nets](notes/2017-abnormal-event-detection-using-gan.md) [[arXiv](https://arxiv.org/abs/1708.09644)]
 
 #### 2017-05
 

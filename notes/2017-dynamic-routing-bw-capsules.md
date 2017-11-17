@@ -2,7 +2,7 @@
 
 #### Key words
 
-- capsule, routing-by-agreement, CapsNet
+- capsule, affine transformation, routing-by-agreement, squashing, CapsNet
 
 #### Key points
 

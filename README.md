@@ -1,3 +1,7 @@
+#### 2017-11
+
+- CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning [[arXiv](https://arxiv.org/abs/1711.05225)]
+
 #### 2017-10
 
 - [Dynamic Routing Between Capsules](notes/2017-dynamic-routing-bw-capsules.md) [[arXiv](https://arxiv.org/abs/1710.09829)]

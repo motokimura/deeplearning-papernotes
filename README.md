@@ -1,6 +1,8 @@
 #### 2017-11
 
 - CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning [[arXiv](https://arxiv.org/abs/1711.05225)]
+- Neural 3D Mesh Renderer [[arXiv](https://arxiv.org/abs/1711.07566)]
+- Differentiable Learning of Submodular Functions [[nips.cc](https://papers.nips.cc/paper/6702-differentiable-learning-of-submodular-functions)]
 
 #### 2017-10
 

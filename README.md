@@ -68,6 +68,10 @@
 
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1511.06434)]
 
+#### 2015-06
+
+- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[arXiv](https://arxiv.org/abs/1506.01497)]
+
 #### 2014-06
 
 - Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1406.2661)]

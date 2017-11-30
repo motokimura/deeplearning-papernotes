@@ -51,6 +51,10 @@
 
 - [Domain Separation Networks](notes/2016-domain-separation-networks.md) [[arXiv](https://arxiv.org/abs/1608.06019)]
 
+#### 2016-06
+
+- Tutorial on Variational Autoencoders [[arXiv](https://arxiv.org/abs/1606.05908)]
+
 #### 2016-05
 
 - Residual Networks Behave Like Ensembles of Relatively Shallow Networks [[arXiv](http://arxiv.org/abs/1605.06431)]
@@ -67,3 +71,7 @@
 #### 2014-06
 
 - Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1406.2661)]
+
+#### 2013-12
+
+- Auto-Encoding Variational Bayes [[arXiv](https://arxiv.org/abs/1312.6114)]

@@ -36,6 +36,7 @@
 #### 2016-11
 
 - Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004)]
+- Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [[arXiv](https://arxiv.org/abs/1611.08050)]
 
 #### 2016-10
 

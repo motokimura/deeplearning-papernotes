@@ -51,6 +51,7 @@
 #### 2016-08
 
 - [Domain Separation Networks](notes/2016-domain-separation-networks.md) [[arXiv](https://arxiv.org/abs/1608.06019)]
+- Densely Connected Convolutional Networks [[arXiv](https://arxiv.org/abs/1608.06993)]
 
 #### 2016-06
 

@@ -80,6 +80,10 @@
 
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[arXiv](https://arxiv.org/abs/1506.01497)]
 
+#### 2014-09
+
+- Going Deeper with Convolutions [[arXiv](https://arxiv.org/abs/1409.4842)]
+
 #### 2014-06
 
 - Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1406.2661)]

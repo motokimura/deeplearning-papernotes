@@ -3,10 +3,12 @@
 - CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning [[arXiv](https://arxiv.org/abs/1711.05225)]
 - Neural 3D Mesh Renderer [[arXiv](https://arxiv.org/abs/1711.07566)]
 - Differentiable Learning of Submodular Functions [[nips.cc](https://papers.nips.cc/paper/6702-differentiable-learning-of-submodular-functions)]
+- Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
 
 #### 2017-10
 
 - [Dynamic Routing Between Capsules](notes/2017-dynamic-routing-bw-capsules.md) [[arXiv](https://arxiv.org/abs/1710.09829)]
+- Generalization in Deep Learning [[arXiv](https://arxiv.org/abs/1710.05468)]
 
 #### 2017-09
 
@@ -23,6 +25,7 @@
 - [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](notes/2017-bayesian-deeplearning-vision.md) [[arXiv](https://arxiv.org/abs/1703.04977)]
 - [Mask R-CNN](notes/2017-mask-rcnn.md) [[arXiv](https://arxiv.org/abs/1703.06870)]
 - Deformable Convolutional Networks [[arXiv](https://arxiv.org/abs/1703.06211)]
+- Sharp Minima Can Generalize For Deep Nets [[arXiv](https://arxiv.org/abs/1703.04933)]
 
 #### 2017-03
 
@@ -37,6 +40,7 @@
 
 - Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004)]
 - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [[arXiv](https://arxiv.org/abs/1611.08050)]
+- Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
 
 #### 2016-10
 
@@ -60,6 +64,7 @@
 #### 2016-05
 
 - Residual Networks Behave Like Ensembles of Relatively Shallow Networks [[arXiv](http://arxiv.org/abs/1605.06431)]
+- Wide Residual Networks [[arXiv](https://arxiv.org/abs/1605.07146)]
 
 #### 2015-12
 

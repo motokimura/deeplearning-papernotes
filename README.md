@@ -14,6 +14,7 @@
 
 - [Fast Dense Feature Extraction with CNNs that have Pooling or Striding Layers](notes/2017-fast-dense-feature-extraction-cnn-w-pooling.md) [[dfki.de](http://av.dfki.de/publications/fast-dense-feature-extraction-with-cnns-that-have-pooling-or-striding-layers/)]
 - [Efficient 3D Tracking in Urban Environments with Semantic Segmentation](notes/2017-efficient-3d-tracking-w-semantic-segmentation.md) [[labri.fr](https://www.labri.fr/perso/vlepetit/pubs/hirzer_bmvc17.pdf)]
+- Squeeze-and-Excitation Networks [[arXiv](https://arxiv.org/abs/1709.01507)]
 
 #### 2017-08
 

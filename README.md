@@ -27,6 +27,7 @@
 - [Mask R-CNN](notes/2017-mask-rcnn.md) [[arXiv](https://arxiv.org/abs/1703.06870)]
 - Deformable Convolutional Networks [[arXiv](https://arxiv.org/abs/1703.06211)]
 - Sharp Minima Can Generalize For Deep Nets [[arXiv](https://arxiv.org/abs/1703.04933)]
+- CASENet: Deep Category-Aware Semantic Edge Detection [[arXiv](https://arxiv.org/abs/1705.09759)]
 
 #### 2017-03
 

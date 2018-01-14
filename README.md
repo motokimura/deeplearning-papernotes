@@ -9,12 +9,14 @@
 
 - [Dynamic Routing Between Capsules](notes/2017-dynamic-routing-bw-capsules.md) [[arXiv](https://arxiv.org/abs/1710.09829)]
 - Generalization in Deep Learning [[arXiv](https://arxiv.org/abs/1710.05468)]
+- Detect to Track and Track to Detect [[arXiv](https://arxiv.org/abs/1710.03958)]
 
 #### 2017-09
 
 - [Fast Dense Feature Extraction with CNNs that have Pooling or Striding Layers](notes/2017-fast-dense-feature-extraction-cnn-w-pooling.md) [[dfki.de](http://av.dfki.de/publications/fast-dense-feature-extraction-with-cnns-that-have-pooling-or-striding-layers/)]
 - [Efficient 3D Tracking in Urban Environments with Semantic Segmentation](notes/2017-efficient-3d-tracking-w-semantic-segmentation.md) [[labri.fr](https://www.labri.fr/perso/vlepetit/pubs/hirzer_bmvc17.pdf)]
 - Squeeze-and-Excitation Networks [[arXiv](https://arxiv.org/abs/1709.01507)]
+- Fast Image Processing with Fully-Convolutional Networks [[arXiv](https://arxiv.org/abs/1709.00643)]
 
 #### 2017-08
 
@@ -28,6 +30,7 @@
 - Deformable Convolutional Networks [[arXiv](https://arxiv.org/abs/1703.06211)]
 - Sharp Minima Can Generalize For Deep Nets [[arXiv](https://arxiv.org/abs/1703.04933)]
 - CASENet: Deep Category-Aware Semantic Edge Detection [[arXiv](https://arxiv.org/abs/1705.09759)]
+- Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics [[arXiv](https://arxiv.org/abs/1705.07115)]
 
 #### 2017-03
 
@@ -43,6 +46,7 @@
 - Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004)]
 - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [[arXiv](https://arxiv.org/abs/1611.08050)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
+- Multi-View 3D Object Detection Network for Autonomous Driving [[arXiv](https://arxiv.org/abs/1611.07759)]
 
 #### 2016-10
 
@@ -81,9 +85,14 @@
 
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[arXiv](https://arxiv.org/abs/1506.01497)]
 
+#### 2015-05
+
+- Accelerating Very Deep Convolutional Networks for Classification and Detection [[arXiv](https://arxiv.org/abs/1505.06798)]
+
 #### 2014-09
 
 - Going Deeper with Convolutions [[arXiv](https://arxiv.org/abs/1409.4842)]
+- Facial Landmark Detection by Deep Multi-task Learning [[edu.hk](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf)]
 
 #### 2014-06
 

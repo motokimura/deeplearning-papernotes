@@ -40,6 +40,7 @@
 
 - [EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis](notes/2016-enhancenet-super-resolution.md) [[arXiv](https://arxiv.org/abs/1612.07919)]
 - Feature Pyramid Networks for Object Detection [[arXiv](https://arxiv.org/abs/1612.03144)]
+- [Pyramid Scene Parsing Network](notes/2016-pyramid-scene-parsing-network.md) [[arXiv](https://arxiv.org/abs/1612.01105)]
 
 #### 2016-11
 

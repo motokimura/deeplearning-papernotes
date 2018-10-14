@@ -20,4 +20,4 @@
 
 - Possible applications:
 	- Satellite image registration (image to image, or image to vector map)
-	- Vehicle or robot localization with vector map
+	- Vehicle or robot localization with raster or vector maps

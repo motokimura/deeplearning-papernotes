@@ -31,7 +31,7 @@
 - Sharp Minima Can Generalize For Deep Nets [[arXiv](https://arxiv.org/abs/1703.04933)]
 - CASENet: Deep Category-Aware Semantic Edge Detection [[arXiv](https://arxiv.org/abs/1705.09759)]
 - Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics [[arXiv](https://arxiv.org/abs/1705.07115)]
-- [Convolutional Neural Network Architecture for Geometric Matching](notes/2017-cnn-for-geometric-matching.md) [[arXiv](https://arxiv.org/abs/1703.05593)][[GitHub](https://github.com/ignacio-rocco/cnngeometric_pytorch)]
+- [Convolutional Neural Network Architecture for Geometric Matching](notes/2017-cnn-for-geometric-matching.md) [[arXiv](https://arxiv.org/abs/1703.05593)] [[GitHub](https://github.com/ignacio-rocco/cnngeometric_pytorch)]
 
 #### 2017-03
 
